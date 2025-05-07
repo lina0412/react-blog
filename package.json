@@ -26,7 +26,8 @@
     "deploy": "gh-pages -d build"
 
   },
-  "homepage": "https://lina0412.github.io/react-blog",
+  "homepage": ".",
+
 
   "eslintConfig": {
     "extends": [
