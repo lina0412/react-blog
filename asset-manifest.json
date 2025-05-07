@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lina0412/react-blog.git/static/css/main.5a35b24f.css",
+    "main.js": "/lina0412/react-blog.git/static/js/main.4f30f785.js",
+    "static/js/453.a50033ce.chunk.js": "/lina0412/react-blog.git/static/js/453.a50033ce.chunk.js",
+    "index.html": "/lina0412/react-blog.git/index.html",
+    "main.5a35b24f.css.map": "/lina0412/react-blog.git/static/css/main.5a35b24f.css.map",
+    "main.4f30f785.js.map": "/lina0412/react-blog.git/static/js/main.4f30f785.js.map",
+    "453.a50033ce.chunk.js.map": "/lina0412/react-blog.git/static/js/453.a50033ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a35b24f.css",
+    "static/js/main.4f30f785.js"
+  ]
+}
